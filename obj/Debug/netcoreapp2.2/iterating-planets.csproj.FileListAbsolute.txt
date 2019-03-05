@@ -1,0 +1,11 @@
+C:\Users\Jordan\backend\workspace\iterating-planets\obj\Debug\netcoreapp2.2\iterating-planets.csprojAssemblyReference.cache
+C:\Users\Jordan\backend\workspace\iterating-planets\obj\Debug\netcoreapp2.2\iterating-planets.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\backend\workspace\iterating-planets\obj\Debug\netcoreapp2.2\iterating-planets.AssemblyInfoInputs.cache
+C:\Users\Jordan\backend\workspace\iterating-planets\obj\Debug\netcoreapp2.2\iterating-planets.AssemblyInfo.cs
+C:\Users\Jordan\backend\workspace\iterating-planets\bin\Debug\netcoreapp2.2\iterating-planets.deps.json
+C:\Users\Jordan\backend\workspace\iterating-planets\bin\Debug\netcoreapp2.2\iterating-planets.runtimeconfig.json
+C:\Users\Jordan\backend\workspace\iterating-planets\bin\Debug\netcoreapp2.2\iterating-planets.runtimeconfig.dev.json
+C:\Users\Jordan\backend\workspace\iterating-planets\bin\Debug\netcoreapp2.2\iterating-planets.dll
+C:\Users\Jordan\backend\workspace\iterating-planets\bin\Debug\netcoreapp2.2\iterating-planets.pdb
+C:\Users\Jordan\backend\workspace\iterating-planets\obj\Debug\netcoreapp2.2\iterating-planets.dll
+C:\Users\Jordan\backend\workspace\iterating-planets\obj\Debug\netcoreapp2.2\iterating-planets.pdb
